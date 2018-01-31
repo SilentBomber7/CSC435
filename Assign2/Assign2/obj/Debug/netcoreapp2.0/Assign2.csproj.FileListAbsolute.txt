@@ -1,0 +1,11 @@
+C:\CSC435\CSC435\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.deps.json
+C:\CSC435\CSC435\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.runtimeconfig.json
+C:\CSC435\CSC435\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.runtimeconfig.dev.json
+C:\CSC435\CSC435\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.dll
+C:\CSC435\CSC435\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.pdb
+C:\CSC435\CSC435\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.csprojResolveAssemblyReference.cache
+C:\CSC435\CSC435\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.csproj.CoreCompileInputs.cache
+C:\CSC435\CSC435\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.AssemblyInfoInputs.cache
+C:\CSC435\CSC435\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.AssemblyInfo.cs
+C:\CSC435\CSC435\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.dll
+C:\CSC435\CSC435\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.pdb
